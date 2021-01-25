@@ -1,0 +1,10 @@
+E:\RAGEMP\server-files\dotnet\resources\RageAdminTools\RageAdminTools.deps.json
+E:\RAGEMP\server-files\dotnet\resources\RageAdminTools\RageAdminTools.dll
+E:\RAGEMP\server-files\dotnet\resources\RageAdminTools\RageAdminTools.pdb
+E:\Coding\Rage\RageAdminTools\RageAdminTools\RageAdminTools\obj\Debug\RageAdminTools.csprojAssemblyReference.cache
+E:\Coding\Rage\RageAdminTools\RageAdminTools\RageAdminTools\obj\Debug\RageAdminTools.AssemblyInfoInputs.cache
+E:\Coding\Rage\RageAdminTools\RageAdminTools\RageAdminTools\obj\Debug\RageAdminTools.AssemblyInfo.cs
+E:\Coding\Rage\RageAdminTools\RageAdminTools\RageAdminTools\obj\Debug\RageAdminTools.csproj.CoreCompileInputs.cache
+E:\Coding\Rage\RageAdminTools\RageAdminTools\RageAdminTools\obj\Debug\RageAdminTools.csproj.CopyComplete
+E:\Coding\Rage\RageAdminTools\RageAdminTools\RageAdminTools\obj\Debug\RageAdminTools.dll
+E:\Coding\Rage\RageAdminTools\RageAdminTools\RageAdminTools\obj\Debug\RageAdminTools.pdb
