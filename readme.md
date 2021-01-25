@@ -5,7 +5,7 @@ This project is not affiliated with either TakeTwo or Rage Multiplayer.
 
 ## Description
 
-RageAdminTools adds various usefull Tools like a freecam to your rage multiplayer server.
+RageAdminTools adds various useful Tools like a freecam to your rage multiplayer server.
 
 ## Features
 
