@@ -19,7 +19,8 @@ RageAdminTools adds various usefull Tools like a freecam to your rage multiplaye
 1. Paste RageAdminTools-Folder in your resource Folder
 2. Paste everything inside Client-Folder inside client_packages
 3. Add Resource to your settings.xml
-4. Enjoy
+4. Add a folder called rageadmintools to your server-files-folder
+5. Enjoy
 
 ## Todo
 
